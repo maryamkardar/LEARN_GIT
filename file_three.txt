@@ -1,2 +1,2 @@
 more example text
-I will provide you with a greet project
+I will provide you with a greet project.
